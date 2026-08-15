@@ -1,0 +1,13 @@
+{
+  "name": "virtus-server",
+  "version": "3.0.0",
+  "private": true,
+  "description": "VIRTUS local protocol server - hosted",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

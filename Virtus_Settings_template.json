@@ -1,0 +1,7 @@
+{
+  "Virtus_IP": "IP_السيرفر",
+  "port": 13480,
+  "url_virtus": "http://IP_السيرفر:13480",
+  "url_inject": "http://IP_السيرفر:13480/api/inject",
+  "url_bypass": "http://IP_السيرفر:13480/api/bypass"
+}
